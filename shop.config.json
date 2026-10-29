@@ -1,0 +1,16 @@
+{
+  "name": "CASUAL SNAKE",
+  "subtitle": "drop",
+  "title": "Casual snake drop",
+  "managerTelegram": "@krassavvecc",
+  "deliveryNote": "",
+  "reviewsUrl": "https://t.me/vidhuksnake",
+  "hero": {
+    "eyebrow": "Casual snake drop",
+    "title": "Пуховики, худі та Timberland",
+    "text": "Брендове упакування, усі бірки на місці",
+    "image": "marcelo-burlon-red"
+  },
+  "botGreeting": "Вітаємо в Casual snake drop! 👋\n\nПуховики, худі, штани, Timberland та аксесуари — з фото, цінами й розмірами.",
+  "webappUrl": ""
+}
